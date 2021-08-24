@@ -161,3 +161,6 @@ public Transaction[] handleTxs(Transaction[] possibleTxs) {
    最终输出的有效的validTxsArr应该包含（按顺序）txC2BD，txE2B和txB2DE
 
    所以assertEquals(validTxsArr.length,3)
+
+
+
